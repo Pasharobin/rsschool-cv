@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pasharobin.github.io/rsschool-cv/cv
