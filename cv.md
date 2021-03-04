@@ -36,3 +36,11 @@ https://htmlacademy.ru
 
 
 Online courses of HTML Academy (2017)
+## Language Skills
+Foreign-languages: **English** (Pre-intermediate)
+## Education
+**Belarusian State University of Informatics and Radioelectronics** 
+
+2008-2014, Minsk, Belarus.
+
+Master degree, Computer technologies for designing electronic systems
