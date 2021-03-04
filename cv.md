@@ -17,3 +17,22 @@ Residency: Minsk, Belarus
 *	Adaptive and cross-browser HTML/CSS markup
 *	Code writing, testing and debugging
 *	Using the multimedia and communication capabilities of browsers
+## Courses
+* EPAM Systems
+
+https://training.by
+
+EPAM Training Center - SNOW training (2019)
+
+* Educational Center of HTP
+
+https://www.it-academy.by
+
+Course “Java Script advanced level” (2018)
+
+* Html academy
+
+https://htmlacademy.ru
+
+
+Online courses of HTML Academy (2017)
