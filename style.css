@@ -1,0 +1,33 @@
+.container {
+  width: 800px;
+
+  margin: 0 auto;
+
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h2,
+a {
+  color: rgb(24, 170, 24);
+}
+
+h3 {
+  color: grey;
+}
+
+.photo {
+  width: 230px;
+  height: 300px;
+
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  text-align: justify;
+}
+
+.cours {
+  margin-bottom: 15px;
+}
