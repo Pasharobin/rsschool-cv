@@ -2,6 +2,17 @@
   width: 800px;
 
   margin: 0 auto;
+
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h2,
+a {
+  color: rgb(24, 170, 24);
+}
+
+h3 {
+  color: grey;
 }
 
 .photo {
@@ -10,6 +21,7 @@
 
   float: right;
   margin-left: 20px;
+  margin-bottom: 20px;
 }
 
 p {
