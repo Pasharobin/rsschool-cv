@@ -6,6 +6,10 @@
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
+.header {
+  text-align: center;
+}
+
 h2,
 a {
   color: rgb(24, 170, 24);
