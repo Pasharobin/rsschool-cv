@@ -16,8 +16,7 @@ h3 {
 }
 
 .photo {
-  width: 230px;
-  height: 300px;
+  width: 25%;
 
   float: right;
   margin-left: 20px;
@@ -30,4 +29,26 @@ p {
 
 .cours {
   margin-bottom: 15px;
+}
+
+.logo {
+  width: 8%;
+}
+
+.git {
+  float: left;
+}
+
+.date {
+  float: right;
+}
+
+.footer {
+  text-align: center;
+
+  margin-top: 30px;
+  padding: 5px;
+
+  border: 2px solid grey;
+  border-radius: 10px;
 }
